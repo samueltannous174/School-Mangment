@@ -1,0 +1,16 @@
+.certificate-button {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+    -fx-padding: 10px 20px;
+    -fx-border-radius: 10px;
+}
+
+.certificate-button:hover {
+    -fx-background-color: #45a049;
+}
+
+.certificate-button:pressed {
+    -fx-background-color: #398438;
+}
